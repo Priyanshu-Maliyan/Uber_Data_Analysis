@@ -97,7 +97,7 @@ Evaluate customer satisfaction by vehicle and ride experience
 ## **🖼️ Screenshots / Demo**
 
 Alt Text: Uber Revenue Dashboard showing booking value by payment method, top customers, and daily ride distances
-![Dashboard Preview](https://github.com/Priyanshu-Maliyan/Uber_Data_Analysis_/blob/main/Images/1_Overall.png)
+![Dashboard Preview](https://github.com/Priyanshu-Maliyan/Uber_Data_Analysis/blob/main/Images/1_Overall.png)
 
 🔗 Project Link
 👉 GitHub – Uber Data Analysis(https://github.com/Priyanshu-Maliyan/Uber_Data_Analysis_/tree/main)
